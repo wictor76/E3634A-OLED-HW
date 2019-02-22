@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name osp_graphics_logos)(type KiCad)(uri ${OSPLIBS}/osp_graphics_logos.pretty)(options "")(descr ""))
-)
