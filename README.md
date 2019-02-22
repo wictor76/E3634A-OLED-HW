@@ -1,4 +1,4 @@
-# HP/Agilent E3634A OLED display to replace old VFD.
+# HP/Agilent E3634A OLED display to replace old VFD
 
 Big thanks to qu1ck!
 See [Original design](https://github.com/openscopeproject/HP34401a-OLED-HW) for more information.
