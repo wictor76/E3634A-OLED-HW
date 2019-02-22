@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /home/kaapo/src/E3634A-OLED-HW_github/e3634a_oled.sch)
-    (date "Fri 22 Feb 2019 11:55:10 AM EET")
+    (source /home/public/E3634A-OLED-HW/e3634a_oled.sch)
+    (date "Fri 22 Feb 2019 05:41:50 PM EET")
     (tool "Eeschema 5.0.2+dfsg1-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
