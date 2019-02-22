@@ -21,4 +21,4 @@ This board was designed in KiCad 5 and uses exclusively standard KiCad libraries
 
 # BOM
 
-[Interactive BOM](https://htmlpreview.github.io/?https://github.com/wictor76/E3634A-OLED-HW/raw/master/bom/ibom.html)
+[Interactive BOM](https://htmlpreview.github.io/?https://github.com/wictor76/E3634A-OLED-HW/master/bom/ibom.html)
