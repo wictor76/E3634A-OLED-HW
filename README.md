@@ -13,3 +13,8 @@ This board was designed in KiCad 5 and uses exclusively standard KiCad libraries
 # Schematic
 
 ![schematic](https://github.com/wictor76/E3634A-OLED-HW/raw/master/schematic.png)
+
+# Board
+
+![board_front](https://github.com/wictor76/E3634A-OLED-HW/raw/master/front.png)
+![board_back](https://github.com/wictor76/E3634A-OLED-HW/raw/master/back.png)
