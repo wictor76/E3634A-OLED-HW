@@ -9,3 +9,7 @@ Input power is also taken from front panel voltage regulator.
 This board could be used also in 34401A and other PSUs using similar front panel design. 
 
 This board was designed in KiCad 5 and uses exclusively standard KiCad libraries.
+
+# Schematic
+
+![schematic](https://github.com/wictor76/E3634A-OLED-HW/raw/master/schematic.png)
